@@ -18,7 +18,6 @@ public class BaladaValida {
         scanner.close();
     }
 
-    ;
 }
 
 

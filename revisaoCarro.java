@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class revisaoCarro {
+public class revisaocarro {
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Quantos KM seu carro esta agora: ");
